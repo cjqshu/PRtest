@@ -11,6 +11,4 @@ Try again!
 
 abc
 
-def
-
 ...
