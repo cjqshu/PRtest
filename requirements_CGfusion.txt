@@ -1,0 +1,11 @@
+## 创建conda环境（CGfusion）
+# conda create -n CGfusion python=3.9
+# conda activate CGfusion
+
+
+## 安装依赖
+jupyter==1.1.1
+networkx==3.2.1
+pandas==2.3.3
+seaborn
+Version==0.13.2
